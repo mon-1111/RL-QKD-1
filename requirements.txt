@@ -1,0 +1,6 @@
+# Core scientific computing
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Optional: for reproducibility tracking
+# pip freeze > requirements.txt after installing the above

@@ -100,9 +100,12 @@ If you use this code, please cite:
 
 ```bibtex
 @article{bagunu2026adversarial,
-  title   = {Adversarial Reinforcement Learning for Adaptive
-             Eavesdropping in BB84 Quantum Key Distribution},
-  author  = {Ramon Jose C. Bagunu},
-  year    = {2026}
+  title   = {Adversarial Reinforcement Learning for Adaptive Eavesdropping in BB84 Quantum Key Distribution},
+  author  = {Bagunu, Ramon Jose C.},
+  journal = {Quantum Information Processing},
+  volume  = {25},
+  number  = {369},
+  year    = {2026},
+  doi     = {10.1007/s11128-026-05390-z}
 }
 ```
